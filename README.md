@@ -3,7 +3,7 @@ SQL exercises
 
 A collection of SQL practice exercises completed as part of my learning journey in SQL and data analytics. This repository contains handwritten solutions and Databricks screenshots covering fundamental SQL concepts and common query techniques.
 
-*Contents
+Contents
 Exercise 1: SQL Fundamentals
 Basic SQL syntax
 SELECT statements
